@@ -1,0 +1,108 @@
+{
+    "Description": {
+        "Id": "chassisdef_dragonfly_viper-A"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 220,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 180,
+            "MaxRearArmor": 90,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 180,
+            "MaxRearArmor": 90,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 180,
+            "MaxRearArmor": -1,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 180,
+            "MaxRearArmor": -1,
+            "InternalStructure": 50
+        }
+    ],
+    "MaxJumpjets": 12
+}

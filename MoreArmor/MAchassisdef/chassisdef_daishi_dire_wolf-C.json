@@ -1,0 +1,121 @@
+{
+    "Description": {
+        "Id": "chassisdef_daishi_dire_wolf-C"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 570,
+            "MaxRearArmor": 155,
+            "InternalStructure": 155
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 390,
+            "MaxRearArmor": 190,
+            "InternalStructure": 105
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 390,
+            "MaxRearArmor": 190,
+            "InternalStructure": 105
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 310,
+            "MaxRearArmor": -1,
+            "InternalStructure": 85
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 310,
+            "MaxRearArmor": -1,
+            "InternalStructure": 85
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 390,
+            "MaxRearArmor": -1,
+            "InternalStructure": 105
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 390,
+            "MaxRearArmor": -1,
+            "InternalStructure": 105
+        }
+    ],
+    "MaxJumpjets": 7
+}

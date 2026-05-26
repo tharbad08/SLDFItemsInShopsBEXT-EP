@@ -1,0 +1,123 @@
+{
+    "Description": {
+        "Id": "chassisdef_viper_black_python-2"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 420,
+            "MaxRearArmor": 115,
+            "InternalStructure": 115
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 290,
+            "MaxRearArmor": 150,
+            "InternalStructure": 80
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 290,
+            "MaxRearArmor": 150,
+            "InternalStructure": 80
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 220,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 220,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 290,
+            "MaxRearArmor": -1,
+            "InternalStructure": 80
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 290,
+            "MaxRearArmor": -1,
+            "InternalStructure": 80
+        }
+    ],
+    "MaxJumpjets": 9
+}

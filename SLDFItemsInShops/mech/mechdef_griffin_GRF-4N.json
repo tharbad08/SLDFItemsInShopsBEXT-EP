@@ -1,0 +1,21 @@
+{
+    "MechTags": {
+        "items": [
+            "unit_indirectFire",
+            "unit_jumpOK",
+            "unit_mech",
+            "unit_medium",
+            "unit_ready",
+            "unit_lance_support",
+            "unit_lance_vanguard",
+            "unit_role_sniper",
+            "unit_release",
+			"unit_LosTech"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Description": {
+        "Purchasable": true,
+        "Id": "mechdef_griffin_GRF-4N",
+    }
+}

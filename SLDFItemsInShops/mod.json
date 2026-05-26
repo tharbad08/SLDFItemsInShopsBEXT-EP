@@ -1,0 +1,23 @@
+{
+    "Name": "SLDFItemsInShops",
+    "Enabled": true,
+
+    "Version": "0.6.1",
+    "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops. BEXT version",
+    "Author": "tharbad08",
+    "Website": "https://github.com/shaygover/BTshopsupgrade",
+    "Contact": "Use github Issues",
+    "DependsOn": ["BTX_ExpansionPack","BT_Extended_3050","BTX_PlayableVehicles"],
+
+    "Manifest": [
+        { "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": true },
+        { "Type": "WeaponDef", "Path": "weapon", "ShouldMergeJSON": true },
+        { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
+        { "Type": "AmmunitionBoxDef", "Path": "ammunitionBox", "ShouldMergeJSON": true },
+        { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
+        { "Type": "ItemCollectionDef", "Path": "items" },
+        { "Type": "ItemCollectionDef", "Path": "BEXT_Items", "ShouldAppendText": true},
+        { "Type": "ItemCollectionDef", "Path": "itemsAppend", "ShouldAppendText": true },
+        { "Type": "UpgradeDef", "Path": "gear", "ShouldMergeJSON": true }
+    ]
+} 

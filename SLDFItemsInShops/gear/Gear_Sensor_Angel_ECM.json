@@ -1,0 +1,13 @@
+{
+  "Description": {
+    "Id": "Gear_Sensor_Angel_ECM",
+  }
+  "ComponentTags": {
+    "items": [
+      "component_type_stock",
+      "component_type_lostech",
+      "cae_ai_defence"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

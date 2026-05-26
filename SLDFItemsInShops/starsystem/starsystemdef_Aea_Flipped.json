@@ -1,0 +1,29 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Aea_Flipped",
+        "Name": "Aea",
+        "Details": "Aea is a wet, lush, tropical world with an atmosphere dense with foul-smelling sulfurous volcanic outgassing. ComStar maintains an HPG facility on the planet; support of that facility is the only reason the system still boasts colonists.",
+        "Icon": ""
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_tropical",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_2",
+            "planet_industry_aquaculture",
+            "planet_name_aea",
+            "planet_faction_restoration",
+            "planet_industry_chemicals",
+            "lvl-6"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "SystemShopItems": [
+        "itemCollection_minor_AuriganRestoration",
+        "itemCollection_shop_chemicals",
+        "itemCollection_shop_chemicalsProgression",
+        "itemCollection_SLDF_lvl-6"
+    ]
+}

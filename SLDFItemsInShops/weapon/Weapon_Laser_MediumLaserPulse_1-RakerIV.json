@@ -1,0 +1,22 @@
+{
+    "Description" : {
+        "Cost" : 720000,
+        "Rarity" : 100,
+        "Purchasable" : true,
+        "Manufacturer" : "Raker IV",
+        "Model" : "Medium Pulse Laser",
+        "UIName" : "SLDF M Pulse +",
+        "Id" : "Weapon_Laser_MediumLaserPulse_1-RakerIV",
+        "Name" : "SLDF M Pulse +",
+        "Details" : "An improvement upon standard Medium Lasers, Medium Pulse Lasers use pulses of light instead of a single beam. This results in better accuracy and damage output but with increased heat and weight. Medium Pulse Lasers are extremely accurate even for Lasers.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_standard"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

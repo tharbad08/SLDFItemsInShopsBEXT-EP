@@ -1,0 +1,20 @@
+{
+    "Description" : {
+        "Cost" : 8000000,
+        "Rarity" : 99,
+        "Purchasable" : true,
+        "Manufacturer" : "Ceres Arms",
+        "Model" : "Gen 2 Probe",
+        "UIName" : "Beagle AP Equipment",
+        "Id" : "Gear_Sensor_ActiveProbe",
+        "Name" : "Beagle Active Probe",
+        "Details" : "This electronic warfare component recreates the capabilities of the Star League era Beagle Active Probe. When activated, the probe performs a Sensor Lock against all enemies within its radius before entering a cooldown state. This component cannot be mounted along with the ECM component.",
+        "Icon" : "UixSvgIcon_specialEquip_Sensors"
+    },
+    "ComponentTags" : {
+        "items" : [
+			"component_type_lostech"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

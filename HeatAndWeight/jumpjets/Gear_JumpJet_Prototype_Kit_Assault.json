@@ -1,0 +1,77 @@
+{
+  "JumpCapacity": 1,
+  "MinTonnage": 90,
+  "MaxTonnage": 100,
+  "Description": {
+    "Cost": 140000, 
+    "Rarity": 3,
+    "Purchasable": true,
+    "Manufacturer": "Generic",
+    "Model": "Assault",
+    "UIName": "Prototype Jump Kit (A)",
+    "Id": "Gear_JumpJet_Prototype_Kit_Assault",
+    "Name": "Prototype Jump Kit (A)",
+    "Details": "Prototype Jump Jets Kit allows the mech to jump a little further than a normal jumpjet.   Assault Jump Jets are specially designed for use on 'Mechs 90 tons and heavier.",
+    "Icon": "uixSvgIcon_action_jump"
+  },
+  "BonusValueA": "+ 15% Jump Dist.",
+  "BonusValueB": "",
+  "ComponentType": "JumpJet",
+  "ComponentSubType": "Functionality",
+  "PrefabIdentifier": "JumpJet",
+  "InventorySize": 2,
+  "Tonnage": 3,
+  "AllowedLocations": "Torso, Legs",
+  "DisallowedLocations": "Head, Arms",
+  "CriticalComponent": false,
+  "statusEffects": [
+    {
+      "durationData": {
+        "duration": -1,
+        "ticksOnActivations": false,
+        "useActivationsOfTarget": false,
+        "ticksOnEndOfRound": false,
+        "ticksOnMovements": false,
+        "stackLimit": -1,
+        "clearedWhenAttacked": false
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "triggerLimit": 0,
+        "extendDurationOnTrigger": 0,
+        "specialRules": "NotSet",
+        "effectTargetType": "Creator",
+        "range": 0,
+        "forcePathRebuild": false,
+        "forceVisRebuild": false,
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "StatusEffect-Jump-DistanceBoost",
+        "Name": "JUMP BOOSTER",
+        "Details": "Increases the distance this unit can travel when jumping by [AMT].",
+        "Icon": "uixSvgIcon_action_jump"
+      },
+      "nature": "Buff",
+      "statisticData": {
+        "statName": "JumpDistanceMultiplier",
+        "operation": "Float_Add",
+        "modValue": "0.15",
+        "modType": "System.Single"
+      }
+    }
+  ],
+  "ComponentTags": {
+    "items": [
+        "component_type_variant",
+        "component_type_variant1",
+        "component_type_stock"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Custom": {
+    "Sorter": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"Description": {
+		"Cost": 8000000,
+		"Rarity": 99,
+		"Purchasable": true,
+		"Manufacturer": "Terran Hegemony",
+		"Model": "NullSig",
+		"UIName": "Null Signature System",
+		"Id": "Gear_SensorCAC_NullSig",
+		"Name": "Null Signature System",
+		"Details": "Star League era Null Signature System. When active, masks the Mechs heat & EM signature, making it almost undetectable by sensors.",
+		"Icon": "UixSvgIcon_specialEquip_Sensors"
+	},
+	"ComponentTags": {
+		"items": [
+			"component_type_stock",
+			"component_type_lostech",
+			"cae_ai_defence",
+			"cae_ai_heat"
+		],
+		"tagSetSourceFile": ""
+	}
+}

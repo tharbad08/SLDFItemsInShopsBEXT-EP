@@ -1,0 +1,14 @@
+{
+  "Description": {
+    "Id": "Gear_Supercharger_1",
+  },
+  "ComponentTags": {
+    "items": [
+      "component_type_stock",
+      "component_type_lostech",
+      "cae_ai_explode",
+      "cae_ai_speed"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

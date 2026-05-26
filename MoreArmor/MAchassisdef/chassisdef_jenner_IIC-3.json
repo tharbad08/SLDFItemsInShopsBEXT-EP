@@ -1,0 +1,111 @@
+{
+    "Description": {
+        "Id": "chassisdef_jenner_IIC-3"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 200,
+            "MaxRearArmor": 55,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 150,
+            "MaxRearArmor": 70,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 150,
+            "MaxRearArmor": 70,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 150,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 150,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        }
+    ],
+    "MaxJumpjets": 12
+}

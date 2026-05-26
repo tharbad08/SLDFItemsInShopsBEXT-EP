@@ -1,0 +1,108 @@
+{
+    "Description": {
+        "Id": "chassisdef_sun_spider-PRIME"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 400,
+            "MaxRearArmor": 110,
+            "InternalStructure": 110
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 280,
+            "MaxRearArmor": 140,
+            "InternalStructure": 75
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 280,
+            "MaxRearArmor": 140,
+            "InternalStructure": 75
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 200,
+            "MaxRearArmor": -1,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 200,
+            "MaxRearArmor": -1,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 280,
+            "MaxRearArmor": -1,
+            "InternalStructure": 75
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 280,
+            "MaxRearArmor": -1,
+            "InternalStructure": 75
+        }
+    ],
+    "MaxJumpjets": 8
+}

@@ -1,0 +1,22 @@
+{
+    "Description" : {
+        "Cost" : 930000,
+        "Rarity" : 9,
+        "Purchasable" : true,
+        "Manufacturer" : "Kong Interstellar",
+        "Model" : "Extended-Range PPC",
+        "UIName" : "SLDF ER PPC",
+        "Id" : "Weapon_PPC_PPCER_Sa_0-STOCK",
+        "Name" : "SLDF ER PPC",
+        "Details" : "An improvement upon standard PPCs, Extended-Range PPCs greatly extend their effective range at the cost of incredible heat generation. ER PPCs also generate a mild EM field that degrades the firing capability of their target.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_extreme"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

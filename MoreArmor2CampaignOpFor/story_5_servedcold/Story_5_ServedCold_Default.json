@@ -1,0 +1,165 @@
+{
+    "targetsAllyTeam": {
+        "lanceOverrideList": [
+            {
+                "lanceSpawner": {
+                    "EncounterObjectGuid": "fddf5e8b-07c6-492b-861e-2d9c2bde80ee"
+                },
+                "name": "Lance_FourHeadedDragon",
+                "lanceDefId": "Manual",
+                "lanceTagSet": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                },
+                "lanceExcludedTagSet": {
+                    "items": [],
+                    "tagSetSourceFile": "Tags/LanceTags"
+                },
+                "spawnEffectTags": {
+                    "items": [],
+                    "tagSetSourceFile": "tags/SpawnEffectTags"
+                },
+                "lanceDifficultyAdjustment": 0,
+                "selectedLanceDefId": null,
+                "selectedLanceDifficulty": 0,
+                "overrideSpawnMethod": null,
+                "unitSpawnPointOverrideList": [
+                    {
+                        "unitSpawnPoint": {
+                            "EncounterObjectGuid": "37634f3f-6855-4572-b526-1fa66e770831"
+                        },
+                        "customUnitName": "",
+                        "customHeraldryDefId": "heraldrydef_directorate",
+                        "unitType": "Mech",
+                        "unitDefId": "mechdef_centurion_CN9-A-V5",
+                        "unitTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "unitExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/UnitTags"
+                        },
+                        "spawnEffectTags": {
+                            "items": [
+                                "spawn_poorly_maintained_25"
+                            ],
+                            "tagSetSourceFile": "Tags/SpawnEffectTags"
+                        },
+                        "pilotDefId": "pilot_d5_gunner",
+                        "pilotTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "pilotExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/PilotTags"
+                        },
+                        "selectedUnitType": "UNDEFINED",
+                        "selectedUnitDefId": null,
+                        "selectedPilotDefId": null
+                    },
+                    {
+                        "unitSpawnPoint": {
+                            "EncounterObjectGuid": "c2f52419-e1ba-43db-bb53-f2d21eba4f8c"
+                        },
+                        "customUnitName": "",
+                        "customHeraldryDefId": "heraldrydef_directorate",
+                        "unitType": "Mech",
+                        "unitDefId": "mechdef_dragon_DRG-1N-V5",
+                        "unitTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "unitExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/UnitTags"
+                        },
+                        "spawnEffectTags": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/SpawnEffectTags"
+                        },
+                        "pilotDefId": "pilot_d5_defender",
+                        "pilotTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "pilotExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/PilotTags"
+                        },
+                        "selectedUnitType": "UNDEFINED",
+                        "selectedUnitDefId": null,
+                        "selectedPilotDefId": null
+                    },
+                    {
+                        "unitSpawnPoint": {
+                            "EncounterObjectGuid": "3ae6c2d2-470c-4c61-866a-1e2ff3cfb918"
+                        },
+                        "customUnitName": "",
+                        "customHeraldryDefId": "heraldrydef_directorate",
+                        "unitType": "Mech",
+                        "unitDefId": "mechdef_firestarter_FS9-H-V5",
+                        "unitTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "unitExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/UnitTags"
+                        },
+                        "spawnEffectTags": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/SpawnEffectTags"
+                        },
+                        "pilotDefId": "pilot_d5_tactician",
+                        "pilotTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "pilotExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/PilotTags"
+                        },
+                        "selectedUnitType": "UNDEFINED",
+                        "selectedUnitDefId": null,
+                        "selectedPilotDefId": null
+                    },
+                    {
+                        "unitSpawnPoint": {
+                            "EncounterObjectGuid": "39045acd-b014-45d3-8bdd-6c0f3a91cb99"
+                        },
+                        "customUnitName": "",
+                        "customHeraldryDefId": "heraldrydef_directorate",
+                        "unitType": "Mech",
+                        "unitDefId": "mechdef_catapult_CPLT-K2-V5",
+                        "unitTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "unitExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/UnitTags"
+                        },
+                        "spawnEffectTags": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/SpawnEffectTags"
+                        },
+                        "pilotDefId": "pilot_story_victoriaMid",
+                        "pilotTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": ""
+                        },
+                        "pilotExcludedTagSet": {
+                            "items": [],
+                            "tagSetSourceFile": "Tags/PilotTags"
+                        },
+                        "selectedUnitType": "UNDEFINED",
+                        "selectedUnitDefId": null,
+                        "selectedPilotDefId": null
+                    }
+                ]
+            }
+        ]
+    }
+}

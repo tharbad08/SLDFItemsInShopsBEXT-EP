@@ -1,0 +1,23 @@
+{
+	"Description": {
+		"Cost": 8000000,
+		"Rarity": 99,
+		"Purchasable": true,
+		"Manufacturer": "Terran Hegemony",
+		"Model": "CLPS",
+		"UIName": "Chameleon Light Polarization Shield",
+		"Id": "Gear_SensorCAC_Chameleon",
+		"Name": "Chameleon Light Polarization Shield",
+		"Details": "Star League era Chameleon Light Polarization Shield. When active, masks the Mechs visual signature, making it almost undetectable by eyes and sensors working in the visible spectrum.",
+		"Icon": "UixSvgIcon_specialEquip_Sensors"
+	},
+	"ComponentTags": {
+		"items": [
+			"component_type_stock",
+			"component_type_lostech",
+			"cae_ai_defence",
+			"cae_ai_heat"
+		],
+		"tagSetSourceFile": ""
+	}
+}

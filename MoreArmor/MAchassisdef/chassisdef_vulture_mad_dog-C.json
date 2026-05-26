@@ -1,0 +1,106 @@
+{
+    "Description": {
+        "Id": "chassisdef_vulture_mad_dog-C"
+    },
+    "Locations": [
+        {
+            "Location": "Head",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "CenterTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 370,
+            "MaxRearArmor": 100,
+            "InternalStructure": 100
+        },
+        {
+            "Location": "RightTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 260,
+            "MaxRearArmor": 130,
+            "InternalStructure": 70
+        },
+        {
+            "Location": "LeftTorso",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 260,
+            "MaxRearArmor": 130,
+            "InternalStructure": 70
+        },
+        {
+            "Location": "RightArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 180,
+            "MaxRearArmor": -1,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "LeftArm",
+            "HardPoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 180,
+            "MaxRearArmor": -1,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "RightLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 260,
+            "MaxRearArmor": -1,
+            "InternalStructure": 70
+        },
+        {
+            "Location": "LeftLeg",
+            "HardPoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 260,
+            "MaxRearArmor": -1,
+            "InternalStructure": 70
+        }
+    ],
+    "MaxJumpjets": 8
+}

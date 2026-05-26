@@ -1,0 +1,30 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Qalzi_Flipped",
+        "Name": "Qalzi",
+        "Details": "Qalzi is a relatively recent addition to Aurigan holdings. The cold and rocky Terran world is in a legal limbo, with the Taurian Concordat maintaining that their original colony, since abandoned, gives them a prior claim on the system.",
+        "Icon": ""
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_arctic",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_2",
+            "planet_industry_agriculture",
+            "planet_industry_mining",
+            "planet_other_newcolony",
+            "planet_name_qalzi",
+            "planet_faction_restoration",
+            "lvl-6"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "SystemShopItems": [
+        "itemCollection_minor_AuriganRestoration",
+        "itemCollection_shop_mining",
+        "itemCollection_shop_miningProgression",
+        "itemCollection_SLDF_lvl-6"
+    ]
+}

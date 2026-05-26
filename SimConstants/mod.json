@@ -1,0 +1,10 @@
+{
+    "Name": "00SimConstants",
+    "Enabled": true,
+    "Version": "0.1.0",
+    "Description": "Modifications to SimGameConstants.json",
+    "Author": "",
+    "Website": "",
+    "Contact": "Use github Issues", 
+    "DependsOn": ["MoreArmor","The_Big_Deal_Campaign_Add-on"]
+} 

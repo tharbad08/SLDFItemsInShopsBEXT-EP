@@ -1,0 +1,12 @@
+{
+  "Description": {
+    "Id": "Gear_SensorCAC_PackratECM"
+  },
+  "ComponentTags": {
+    "items": [
+      "component_type_stock",
+      "cae_ai_defence"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

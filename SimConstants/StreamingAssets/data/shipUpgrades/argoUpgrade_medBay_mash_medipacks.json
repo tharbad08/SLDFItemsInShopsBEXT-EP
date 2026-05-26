@@ -1,0 +1,49 @@
+{
+    "Description" : {
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "UIName" : "",
+        "Id" : "argoUpgrade_medBay_mash_medipacks",
+        "Name" : "MediPacks",
+        "Details" : "A Medipack (sometimes in the notation MediPack) is a common portable medical device contoured to fit snugly to the thigh of a MechWarrior or aerospace pilot. This small, thin box constantly monitors the condition of the wearer and administers a series of painkillers or stimulants to keep them alert and combat-ready. It has storage for up to a dozen doses of medication, which must be replaced once a month whether they have been used or not, and can either plug into the BattleMech through a cockpit power jack or run off an internal battery good for 48 hours. Originally designed for the personal guard of Takiro Kurita the device became soon common amongst any regular army unit.",
+        "Icon" : "uixSvgIcon_shipUpgrade_medbay4"
+    },
+    "Illustration" : "uixTxrSpot_MedBay",
+    "Location" : "SHIP",
+    "shipUpgradeCategoryID" : "MED_BAY",
+    "AssignedCastDefId": "castDef_FarahDefault",
+    "AssignedCastDescription": "Normal medipacks are quite a common thing, but these particular devices were made specifically for the Royal Regiments of the SLDF, so that they are more efficient and reliable due to high-quality electronics, even though they are several centuries old. It will help keep our MechWarriors alive in the event of serious injury – at least to survive until evacuation.",
+    "RequiredModules" : {
+        "items" : [
+			"argoUpgrade_medBay_mash"
+        ],
+        "tagSetSourceFile" : ""
+    },
+    "Requirements" : [
+        
+    ],
+    "TechCost" : 15,
+    "PurchaseCost" : 750000,
+    "AdditionalCost" : 5000,
+    "Tags" : {
+        "items" : [
+            "argo_medbay_mash_medipacks"
+        ],
+        "tagSetSourceFile" : ""
+    },
+    "Stats" : [
+		{
+			"typeString" : "System.Single",
+			"name" : "IncapacitatedDeathChance",
+			"value" : -0.1,
+			"valueConstant" : ""
+		},
+		{
+			"typeString" : "System.Single",
+			"name" : "LethalDeathChance",
+			"value" : -0.1,
+			"valueConstant" : ""
+		}		
+    ]
+}

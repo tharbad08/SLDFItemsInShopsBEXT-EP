@@ -1,0 +1,7 @@
+itemCollection_Ammo_all,Reference,0,1
+itemCollection_Components_base,Reference,0,1
+itemCollection_shopItems_weapons,Reference,6,1
+itemCollection_systemStores_Mechs_Outreach,Reference,1,1
+itemCollection_systemStores_MechParts_Outreach,Reference,2,1
+Gear_HeatSink_Clan_Double,HeatSink,4,1
+Gear_HeatSink_Clan_Triple,HeatSink,2,1

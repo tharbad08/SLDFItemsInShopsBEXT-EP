@@ -1,0 +1,12 @@
+{
+  "Description": {
+    "Purchasable": true,
+    "Id": "Gear_Comms_Equipment_7t",
+  },
+  "ComponentTags": {
+    "items": [
+      "component_type_stock"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

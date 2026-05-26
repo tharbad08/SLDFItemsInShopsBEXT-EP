@@ -1,0 +1,22 @@
+{
+    "Description" : {
+        "Cost" : 1220000,
+        "Rarity" : 100,
+        "Purchasable" : true,
+        "Manufacturer" : "Blankenburg 25",
+        "Model" : "Extended-Range Large Laser",
+        "UIName" : "SLDF ER L Laser +",
+        "Id" : "Weapon_Laser_LargeLaserER_1-Blankenburg25",
+        "Name" : "SLDF ER L Laser +",
+        "Details" : "An improvement upon standard Large Lasers, Extended-Range Large Lasers extend their effective range at the cost of massive heat generation. Like all Lasers, ER Large Lasers enjoy a baseline accuracy bonus over other weapons.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_very-long"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Description" : {
+        "Cost" : 420000,
+        "Rarity" : 100,
+        "Purchasable" : true,
+        "Manufacturer" : "Firmir",
+        "Model" : "Small Pulse Laser",
+        "UIName" : "SLDF S Pulse + +",
+        "Id" : "Weapon_Laser_SmallLaserPulse_2-Magna200P",
+        "Name" : "SLDF S Pulse + +",
+        "Details" : "An improvement upon standard Small Lasers, Small Pulse Lasers use pulses of light instead of a single beam. This results in better accuracy and damage output but with greatly increased heat and weight. Like all Lasers, Small Pulse Lasers enjoy a baseline accuracy bonus over other weapons.",
+        "Icon" : "uixSvgIcon_weapon_Support"
+    },
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_close"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

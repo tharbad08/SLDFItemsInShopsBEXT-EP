@@ -1,0 +1,16 @@
+{
+    "Name": "MoreArmor",
+    "Enabled": true,
+    
+    "DependsOn": ["BTX_ExpansionPack","BT_Extended_3050","BTX_PlayableVehicles"],
+
+    "Version": "0.2.0",
+    "Description": "Have you ever wanted to use the gravity plates to get more armor? Now you can. With this mod each Mech has 48% more armor. Or you can use the script I wrote to get any more (or less?) % armor",
+    "Author": "tharbad08",
+    "Website": "",
+    "Contact": "Use github Issues",
+
+    "Manifest": [
+        { "Type": "ChassisDef", "Path": "MAchassisdef", "ShouldMergeJSON": true }
+    ]
+} 

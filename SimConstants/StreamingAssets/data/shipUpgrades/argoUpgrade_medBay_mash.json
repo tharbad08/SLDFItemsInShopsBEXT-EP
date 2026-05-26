@@ -1,0 +1,49 @@
+{
+    "Description" : {
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "UIName" : "",
+        "Id" : "argoUpgrade_medBay_mash",
+        "Name" : "M.A.S.H.",
+        "Details" : "The Mobile Army Surgical Hospital, aka M.A.S.H., is a variety of emergency and surgical equipment suitable for rapid deployment in the field. Usually it is mounted on the chassis of trucks or specialized vehicles. While the Argo’s Med Bay is still superior to M.A.S.H. equipment, if installed on the Leopard, it can help any heavily wounded pilots to survive to the Argo hospital in orbit. The equipment containers bear the number 4077, I wonder what that means...",
+        "Icon" : "uixSvgIcon_shipUpgrade_medbay1"
+    },
+    "Illustration" : "uixTxrSpot_MedBay",
+    "Location" : "SHIP",
+    "shipUpgradeCategoryID" : "MED_BAY",
+    "AssignedCastDefId": "castDef_FarahDefault",
+    "AssignedCastDescription": "We should have installed something like this on the Leopard a long time ago so that our MedTechs could work on the wounded on the way to the Argo. If we do that, the wounded will have a much better chance of surviving, Commander. It's not cheap, of course, but if you ask me, then it's better to lose a ‘Mech than a MechWarrior. The equipment containers bear the number 4077, I wonder what that means...",
+    "RequiredModules" : {
+        "items" : [
+			"argoUpgrade_medBay_mash"
+        ],
+        "tagSetSourceFile" : ""
+    },
+    "Requirements" : [
+        
+    ],
+    "TechCost" : 30,
+    "PurchaseCost" : 2700000,
+    "AdditionalCost" : 15000,
+    "Tags" : {
+        "items" : [
+            "argo_medbay_mash"
+        ],
+        "tagSetSourceFile" : ""
+    },
+    "Stats" : [
+		{
+			"typeString" : "System.Single",
+			"name" : "IncapacitatedDeathChance",
+			"value" : -0.45,
+			"valueConstant" : ""
+		},
+		{
+			"typeString" : "System.Single",
+			"name" : "LethalDeathChance",
+			"value" : -0.45,
+			"valueConstant" : ""
+		}		
+    ]
+}

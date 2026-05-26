@@ -1,0 +1,24 @@
+{
+  "Description": {
+    "Cost": 4650000,
+    "Rarity": 100,
+    "Purchasable": false,
+    "Manufacturer": "Martinson Armaments",
+    "Model": "Extended-Range PPC",
+    "UIName": "Kinslaughter H ER PPC",
+    "Id": "Weapon_PPC_PPCER_3-Kinslaughter",
+    "Name": "Kinslaughter H ER PPC",
+    "Details": "The Kinslaughter H-Class was considered the apex of the ER PPC during the Star League era, noted for its inclusion of special insulating cones that made the weapon both easier to maintain and ensured it generated less heat than many other models of ER PPCs. Only ComStar and the Word of Blake are still capable of building the Kinslaughter H-Class.",
+    "Icon": "uixSvgIcon_weapon_Energy"
+  },
+  "ComponentTags": {
+    "items": [
+      "component_type_variant",
+      "component_type_variant3",
+      "component_type_lostech",
+      "range_very_long",
+      "ppc_capacitor_attachable"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

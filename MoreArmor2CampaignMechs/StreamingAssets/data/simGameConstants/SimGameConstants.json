@@ -1,0 +1,10 @@
+{
+   "Story" : {
+		"StartingLance" : [
+			"mechdef_vindicator_VND-1R-S",
+			"mechdef_shadowhawk_SHD-2H-S",
+			"mechdef_spider_SDR-5V-S",
+			"mechdef_locust_LCT-1V-S"
+		]
+    }
+}
