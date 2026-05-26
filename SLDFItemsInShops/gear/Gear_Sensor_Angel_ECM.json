@@ -1,7 +1,7 @@
 {
   "Description": {
     "Id": "Gear_Sensor_Angel_ECM",
-  }
+  },
   "ComponentTags": {
     "items": [
       "component_type_stock",

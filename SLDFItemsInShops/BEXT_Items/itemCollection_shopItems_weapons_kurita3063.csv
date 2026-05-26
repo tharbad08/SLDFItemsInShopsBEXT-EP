@@ -74,7 +74,6 @@ Weapon_SRM_ASRM6_0-STOCK,Weapon,1,1
 Weapon_SRM_SSRM2_0-STOCK,Weapon,1,2
 Weapon_SRM_SSRM4_0-STOCK,Weapon,1,2
 Weapon_SRM_SSRM6_0-STOCK,Weapon,1,2
-itemCollection_table_Items_narcandammo,Reference,0,1
 Weapon_TAG_Standard_0-STOCK,Weapon,1,1
 Weapon_LRM_DFLRM5_0-STOCK,Weapon,1,1
 Weapon_LRM_DFLRM10_0-STOCK,Weapon,1,1
@@ -83,8 +82,4 @@ Weapon_LRM_DFLRM20_0-STOCK,Weapon,1,1
 Weapon_SRM_DFSRM2_0-STOCK,Weapon,1,1
 Weapon_SRM_DFSRM4_0-STOCK,Weapon,1,1
 Weapon_SRM_DFSRM6_0-STOCK,Weapon,1,1
-itemCollection_table_Items_mrm10andammo,Reference,0,2
-itemCollection_table_Items_mrm20andammo,Reference,0,2
-itemCollection_table_Items_mrm30andammo,Reference,0,2
-itemCollection_table_Items_mrm40andammo,Reference,0,2
 Ammo_AmmunitionBox_Generic_Narc_Explosive,AmmunitionBox,1,1

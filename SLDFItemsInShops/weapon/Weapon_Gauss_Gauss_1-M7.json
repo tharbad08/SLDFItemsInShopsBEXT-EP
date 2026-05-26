@@ -2,7 +2,7 @@
     "Description" : {
         "Cost" : 2960000,
         "Rarity" : 99,
-        "Purchasable" : false,
+        "Purchasable" : true,
         "Manufacturer" : "SCI",
         "Model" : "Magnetic Cannon",
         "UIName" : "SLDF Gauss Rifle +",

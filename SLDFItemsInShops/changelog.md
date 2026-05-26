@@ -39,13 +39,10 @@
 - Added itemAppend to mod.json (Was missing :/ ).
 
 ## 0.5.5
-- Updated mod.json and changelog.
+- Updated mod.json and chagelog.
 
 ## 0.5.6
 - Fixed a typo in the lvl1 list.
 
-## 0.5.7 - Last one for vanilla, sometime in 2020
+## 0.5.7
 - Added items that require cost bypass.
-
-## 0.6.0 - BEXT and BEXT EP compatible, 05.2026
-- First release

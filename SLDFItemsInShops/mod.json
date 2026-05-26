@@ -1,23 +1,30 @@
 {
     "Name": "SLDFItemsInShops",
     "Enabled": true,
-
-    "Version": "0.6.1",
-    "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops. BEXT version",
+    "Version": "0.7.0",
+    "Description": "Adds SLDF items to shops. BEXT version",
     "Author": "tharbad08",
-    "Website": "https://github.com/shaygover/BTshopsupgrade",
+    "Website": "",
     "Contact": "Use github Issues",
+    
     "DependsOn": ["BTX_ExpansionPack","BT_Extended_3050","BTX_PlayableVehicles"],
 
     "Manifest": [
+        // Allows SLDF mechs to be sold
         { "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": true },
+        // Allows SLDF weapons to be sold
         { "Type": "WeaponDef", "Path": "weapon", "ShouldMergeJSON": true },
+        // Item will show in Arano Restoration planets 
         { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
-        { "Type": "AmmunitionBoxDef", "Path": "ammunitionBox", "ShouldMergeJSON": true },
-        { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
+        // Mod item lists, mod will not work without
         { "Type": "ItemCollectionDef", "Path": "items" },
+        // More items in shops (not including mod items)
         { "Type": "ItemCollectionDef", "Path": "BEXT_Items", "ShouldAppendText": true},
+        // Modded items additions to stores 
         { "Type": "ItemCollectionDef", "Path": "itemsAppend", "ShouldAppendText": true },
+        // Modded items additions to Faction ally stores
+        { "Type": "ItemCollectionDef", "Path": "FactionStores", "ShouldAppendText": true },
+        // Allows SLDF upgrades to be sold
         { "Type": "UpgradeDef", "Path": "gear", "ShouldMergeJSON": true }
     ]
 } 

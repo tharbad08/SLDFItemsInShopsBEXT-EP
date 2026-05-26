@@ -66,7 +66,5 @@ Weapon_SRM_ASRM2_0-STOCK,Weapon,1,1
 Weapon_SRM_ASRM4_0-STOCK,Weapon,1,1
 Weapon_SRM_ASRM6_0-STOCK,Weapon,1,1
 Weapon_SRM_SSRM2_0-STOCK,Weapon,1,2
-itemCollection_table_Items_narcandammo,Reference,0,1
 Weapon_TAG_Standard_0-STOCK,Weapon,1,1
-itemCollection_table_Items_sbgaussandammo,Reference,0,1
 itemCollection_Weapons_ArtilleryCannons,Reference,1,1
