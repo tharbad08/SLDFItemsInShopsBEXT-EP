@@ -1,0 +1,16 @@
+{
+    "Name": "Upgrades2SLDFItems",
+    "Enabled": true,
+
+    "Version": "0.1",
+    "Description": "Allows you to buy and use built-in mech upgrades with caveats: weights more or takes more space.",
+    "Author": "tharbad08",
+    "Website": "",
+    "Contact": "Use github Issues",
+    "DependsOn": ["SLDFItemsInShops"],
+
+    "Manifest": [
+        { "Type": "ItemCollectionDef", "Path": "itemsAppend", "ShouldAppendText": true },
+        { "Type": "UpgradeDef", "Path": "upgrades" }
+    ]
+} 

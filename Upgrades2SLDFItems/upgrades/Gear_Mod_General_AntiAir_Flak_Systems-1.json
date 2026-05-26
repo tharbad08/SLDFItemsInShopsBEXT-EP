@@ -1,0 +1,66 @@
+{
+    "Custom": {
+        "Sorter": 0
+    },
+    "StatName": null,
+    "RelativeModifier": 0,
+    "AbsoluteModifier": 0,
+    "Description": {
+        "Cost": 400000,
+        "Rarity": 99,
+        "Purchasable": true,
+        "Manufacturer": "Kallon Industries",
+        "Model": "AntiAir Flak Systems-1",
+        "UIName": "Anti-Air TTS",
+        "Id": "Gear_Mod_General_AntiAir_Flak_Systems-1",
+        "Name": "Anti-Air TTS",
+        "Details": "Designed by Kallon Industries, the AntiAir Flak Systems-1 is a dedicated anti-aircraft targeting and tracking system (TTS) with impressive capabilities. It can simultaneously track 200 targets, prioritize threats, and seamlessly links data with other units. ",
+        "Icon": "uixSvgIcon_equipment_TTS"
+    },
+    "BonusValueA": "+3 Acc. vs. Air",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "BattleValue": 0,
+    "InventorySize": 3,
+    "Tonnage": 2,
+    "AllowedLocations": "All",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": -1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "EnemiesWithinRange",
+                "showInTargetPreview": false,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-AntiAir-ToHit",
+                "Name": "ANTI-AIRCRAFT TARGETING",
+                "Details": "Weapon attacks against air units have their hit improved by [AMT].",
+                "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "nature": "Buff",
+            "statisticData": {
+                "abilifierId": "AntiAircraftTargeting",
+                "statName": "ToHitThisActor",
+                "operation": "Float_Add",
+                "modValue": "-3.0",
+                "modType": "System.Single"
+            }
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "component_type_lostech"
+        ],
+        "tagSetSourceFile": ""
+    }
+}
