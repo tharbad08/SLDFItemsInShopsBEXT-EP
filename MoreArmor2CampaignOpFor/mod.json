@@ -2,7 +2,7 @@
     "Name": "MoreArmor2CampaignOpFor",
     "Enabled": true,
     
-    "DependsOn": [ "HeatWeightAndJJ", "SLDFItemsInShops", "MoreArmor" ],
+    "DependsOn": [ "HeatWeightJJ", "SLDFItemsInShops", "MoreArmor" ],
     
     "Version": "0.1.0",
     "Description": "Using my new items and more armor to create variants of campaign OpFor mechs: 2xVictoria and lance, Grim Sybil. No pic for complete surprise. Prepare yourself",

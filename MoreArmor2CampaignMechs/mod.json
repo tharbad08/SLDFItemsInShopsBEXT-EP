@@ -2,7 +2,7 @@
     "Name": "MoreArmor2CampaignMechs",
     "Enabled": true,
     
-    "DependsOn": [ "HeatWeightAndJJ", "SLDFItemsInShops", "MoreArmor" ],
+    "DependsOn": [ "HeatWeightJJ", "SLDFItemsInShops", "MoreArmor" ],
     
     "Version": "0.2.0",
     "Description": "Using my new items and more armor to create a variant of campaign mechs: Kamea Kintaro, SLDF outpost mechs and Kamea Atlas II. With these mechs you might be able to finish the outpost mission without losing any mechs on hard difficulty",
