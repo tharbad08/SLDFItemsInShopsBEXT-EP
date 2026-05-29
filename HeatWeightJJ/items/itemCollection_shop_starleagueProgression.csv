@@ -1,0 +1,11 @@
+SLDF_Rgrav_extra_light,Upgrade,3,4
+SLDF_Rgrav_light,Upgrade,3,4
+SLDF_Rgrav_medium,Upgrade,2,4
+SLDF_Rgrav_heavy,Upgrade,1,4
+SLDF_Rgrav_super_heavy,Upgrade,1,4
+Gear_HeatSink_Generic_Double,HeatSink,1,4
+Gear_HeatSink_Generic_Triple,HeatSink,1,4
+Gear_JumpJet_SLDF_Kit_Standard,JumpJet,2,4
+Gear_JumpJet_SLDF_Kit_Heavy,JumpJet,2,4
+Gear_JumpJet_SLDF_Kit_Assault,JumpJet,2,4
+SLDF_Rgrav_extra_super_heavy,Upgrade,1,4

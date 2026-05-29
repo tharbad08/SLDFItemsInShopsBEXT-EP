@@ -1,0 +1,26 @@
+{
+  "Settings": [
+    {
+      "Name": "JJ_SPECIAL_ANY",
+      "AllowMinOverflow": false,
+      "BaseLimits": [
+        {
+          "Location": "All",
+          "Min": 0,
+          "Max": 2
+        }
+      ]
+    },
+    {
+      "Name": "ENGINE_HS_UPGRADE",
+      "AllowMinOverflow": false,
+      "BaseLimits": [
+        {
+          "Location": "All",
+          "Min": 0,
+          "Max": 1
+        }
+      ]
+    }
+  ]
+}
