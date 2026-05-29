@@ -1,0 +1,59 @@
+{
+  "Settings": [
+    {
+      "Name": "VECTORED_THRUST_KIT",
+      "AllowMinOverflow": false,
+      "BaseLimits": [
+        {
+          "Location": "All",
+          "Min": 0,
+          "Max": 1
+        }
+      ]
+    },
+    {
+    "Name": "INTERCEPT_SYSTEM",
+    "AllowMinOverflow": false,
+    "BaseLimits": [
+        {
+            "Location": "All",
+            "Min": 0,
+            "Max": 1
+        }
+      ] 
+    },
+    {
+    "Name": "COMMAND_MODULE",
+    "AllowMinOverflow": false,
+    "BaseLimits": [
+        {
+            "Location": "All",
+            "Min": 0,
+            "Max": 1
+        }
+      ]
+    },
+    {
+    "Name": "OP_2000A_INTERFACE",
+    "AllowMinOverflow": false,
+    "BaseLimits": [
+        {
+            "Location": "All",
+            "Min": 0,
+            "Max": 1
+        }
+      ]
+    },
+    {
+    "Name": "OPTIMIZED_CAPACITORS",
+    "AllowMinOverflow": false,
+    "BaseLimits": [
+        {
+            "Location": "All",
+            "Min": 0,
+            "Max": 1
+        }
+      ]
+    }
+  ]
+}

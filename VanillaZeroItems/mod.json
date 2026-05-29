@@ -1,0 +1,17 @@
+{
+    "Name": "VanillaZeroItems",
+    "Enabled": true,
+
+    "Version": "0.1",
+    "Description": "Allows you to buy and use Vanilla Built-in Items that had 0 cost. Did my best to estimate real cost. Some items were nerfed / weight more / take more space",
+    "Author": "tharbad08",
+    "Website": "",
+    "Contact": "Use github Issues",
+    "DependsOn": ["SLDFItemsInShops","CustomComponents"],
+
+    "Manifest": [
+        { "Type": "ItemCollectionDef", "Path": "itemsAppend", "ShouldAppendText": true },
+        { "Type": "UpgradeDef", "Path": "upgrades" }, 
+        { "Type": "CCCategories", "Path": "cc_category", "AddToDB": false } 
+    ]
+} 

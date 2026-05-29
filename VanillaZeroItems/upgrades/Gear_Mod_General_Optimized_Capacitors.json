@@ -1,0 +1,75 @@
+{
+    "Description": {
+        "Cost": 480000, // Seems appropriate
+        "Rarity": 4,
+        "Purchasable": true,
+        "Manufacturer": "StarCorp",
+        "Model": "",
+        "UIName": "Optimized Capacitors",
+        "Id": "Gear_Mod_General_Optimized_Capacitors",
+        "Name": "Optimized Capacitors",
+        "Details": "The Optimized Capacitors extending from the engine allow for improved linkages for all Energy weapons mounted on the 'Mech. This boosts the damage output of those weapons beyond their stock capability.",
+        "Icon": "UixSvgIcon_specialEquip_System"
+    },
+    "BonusValueA": "+ 10% Energy Dmg.", // was 5
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 2,
+    "AllowedLocations": "Torso",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-OptimizedCapacitors-EnergyDmgBonus",
+                "Name": "OPTIMIZED CAPACITORS",
+                "Details": "Energy weapons on this unit deal [AMT] more damage.",
+                "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "DamagePerShot",
+                "operation": "Float_Multiply",
+                "modValue": "1.1",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "Weapon",
+                "targetWeaponCategory": "Energy",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "component_type_lostech"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Custom": {
+        "Sorter": 0,
+        "Category": [
+            {
+                "CategoryID": "OPTIMIZED_CAPACITORS",
+                "Weight": 1
+            }
+        ]
+    }
+}
