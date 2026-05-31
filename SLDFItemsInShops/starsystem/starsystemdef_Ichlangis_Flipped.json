@@ -2,7 +2,6 @@
     "Description": {
         "Id": "starsystemdef_Ichlangis_Flipped",
         "Name": "Ichlangis",
-        "Details": "Ichlangis is a Martian planet, with atmosphere too thin to breathe, no surface water, and temperature below freezing. The planet is rich in titanium, and the ores are made easily accessible by the deep chasms that crack the planet\u2019s surface.",
         "Icon": ""
     },
     "Tags": {
@@ -26,7 +25,6 @@
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_mining",
-        "itemCollection_shop_miningProgression",
         "itemCollection_SLDF_lvl-1"
     ]
 }

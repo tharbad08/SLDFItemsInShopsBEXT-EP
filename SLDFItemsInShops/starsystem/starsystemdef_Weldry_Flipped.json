@@ -2,7 +2,6 @@
     "Description": {
         "Id": "starsystemdef_Weldry_Flipped",
         "Name": "Weldry",
-        "Details": "Weldry is a cold world with a thin atmosphere that's only breathable in the lowlands and valleys. The highlands are barren, windswept, uninhabited ice. The highest form of life is a vicious stinging insect that can form mile-wide swarms.",
         "Icon": ""
     },
     "Tags": {
@@ -25,7 +24,6 @@
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_manufacturing",
         "itemCollection_MechParts_RestoWeldry",
-        "itemCollection_shop_manufacturingProgression",
         "itemCollection_SLDF_lvl-1"
     ]
 }

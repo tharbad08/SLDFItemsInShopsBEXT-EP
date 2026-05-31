@@ -2,7 +2,6 @@
     "Description": {
         "Id": "starsystemdef_Bringdam_Flipped",
         "Name": "Bringdam",
-        "Details": "A lush, high-gravity world, Bringdam's atmosphere is so dense as to be almost unbreathable. The humidity makes it a poor location for mining, but it is an excellent agricultural world, supplying itself and a number of nearby systems.",
         "Icon": ""
     },
     "Tags": {
@@ -27,7 +26,6 @@
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_battlefield",
-        "itemCollection_shop_battlefieldProgression",
         "itemCollection_SLDF_lvl-2"
     ]
 }
