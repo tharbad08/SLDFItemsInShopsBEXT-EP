@@ -16,6 +16,8 @@
 
 Upgrades were assigned to each level sometimes by rarity and sometimes by my logic.
 
+Only mechs from 3020s and 3030s were added. New mechs from 3040s and on you'll have to get from either regular stores or OpFor.
+
 ## Planets revelation stages (I used the flipped file):
 0. All unaligned planets.
 1. Weldry, Fjaldr, Ichlangis: milestone_305_sim_argo_start
