@@ -1,60 +1,35 @@
 {
    "Finances" : {
-		//"DefaultShopRefreshRate" : 10,
 		"DefaultShopMaxInventory" : 200,
 		"DefaultShopMaxSpecials" : 4,
 		"ContractPricePerDifficulty" : 1480000, // This works differently in BEXT, 800k gave 1m for 4 skull missions (Should be 3.2m)
-		"ContractPriceVariance" : 0.15,
-		"ContractFloorSalaryMultiplier" : 0.1,
-		"ContractFloorSalvageBonus" : 3,
-		"MaxReputationChangeOnAContract" : 30.0,
+		"ContractFloorSalaryMultiplier" : 0.2,
+		"ContractFloorSalvageBonus" : 4,
 		// Doubled:
-		"GoodFaithModifier" : 0.3,
-		"NoFaithModifier" : 0,
-		"TechHiringCostPerPoint" : 8000,
 		"ShopSellModifier": 0.2048,
-		"ShopSellDamagedModifier": 0.08,
-		"ShopWarnBeforeSellingPriceMinimum": 100000,
-		"MechScrapModifier": 0.2,
-		"MechLabRefundModifier": 0.8,
-		"RecoveredChassisShopModifier" : 0.9,
-		"QuartersYouCanAffordWithoutTriggeringWarning" : 2,
-		"ContractBaseRepDifficultyMultiplier" : 1.5,
-		"ContractBaseReputationAddition" : 0,
-		"ContractNegotiableRepDifficultyMultiplier" : 1,
-		"ContractNegotiableReputationAddition" : 5,
+		"MechScrapModifier": 0.2
    },
-   "Shop" : {
-      //"InventoryRefreshRate" : 10, // Doesn't work or it's not days
-	  "DefaultSpecialWeight" : 10
-   },
-   "Story" : { // Doubled or halved
-		"LoathedRepPaymentAdjustment" : -0.22,
-		"HatedRepPaymentAdjustment" : -0.13,
-		"DislikedRepPaymentAdjustment" : -0.03,
-		"IndifferentRepPaymentAdjustment" : 0,
+   "Story" : { // *4 
 		"LikedRepPaymentAdjustment" : 0.2,
 		"FriendlyRepPaymentAdjustment" : 0.4,
-		"HonoredRepPaymentAdjustment" : 0.5,
-		"HatedRepShopAdjustment" : 0.13,
-		"DislikedRepShopAdjustment" : 0.05,
+		"HonoredRepPaymentAdjustment" : 0.6,
+		// Halved
 		"IndifferentRepShopAdjustment" : 0.05,
-		"LikedRepShopAdjustment" : 0,
+		"LikedRepShopAdjustment" : -0.05,
 		"FriendlyRepShopAdjustment" : -0.1,
 		"HonoredRepShopAdjustment" : -0.2,
 		"DefaultRoninHiringChance" : 0.18,
 		"ContractRenewalPerWeek" : 4,
 		"MaxContractsPerSystem": 12,
 		"MaxBreadcrumbsPerSystem": 4, // I'm quiet sure this means travel missions
-		"MissionsForFirstBreadcrumb": 1,
 		"StartingCBills": 10000000, // Starting story money
    },
    "CareerMode" : { 
-		"ContractRenewalPerWeek" : 4,
-		"GameLength" : 2400 // Was here from 2019, not sure what it does. Maybe doubles the campaign length
+		"GameLength" : 2400 // Doubles the campaign length
     }, 
     "Salvage": {
-		"MaxSalvagePotential": 44, // Def: 32
-		"MinSalvagePotential": 0
+		"MaxSalvagePotential": 48, // Def: 32
+		"MinSalvagePotential": 2,
+		"DefaultSalvagePotential": 10
     }
 }

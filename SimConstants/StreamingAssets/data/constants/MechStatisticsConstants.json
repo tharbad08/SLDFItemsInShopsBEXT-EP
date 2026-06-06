@@ -1,3 +1,5 @@
 {
-    "ARMOR_PER_STEP" : 5.0
+    "MaxSprintFactor" : 600.0,
+    "MaxStockFirepower" : 700.0,
+    "MaxArmorFactor" : 3800.0
 }
