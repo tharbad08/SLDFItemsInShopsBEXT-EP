@@ -6,6 +6,9 @@ BT_Extended_CE\mod.json
 * TabletopArmorRulesSimulation to false
 * HeadMaxArmorOverride to 80.0
 
+## How to configure the mod?
+See Guide.pdf
+
 ## List of mods I play with:
 
 * Battle_Of_Tukayyid
