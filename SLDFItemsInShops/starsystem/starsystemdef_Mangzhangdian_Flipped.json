@@ -22,7 +22,6 @@
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_chemicals",
-        "itemCollection_shop_chemicalsProgression",
         "itemCollection_SLDF_lvl-4"
     ]
 }

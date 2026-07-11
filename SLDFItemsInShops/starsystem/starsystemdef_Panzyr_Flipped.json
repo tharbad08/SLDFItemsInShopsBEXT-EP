@@ -24,7 +24,6 @@
     },
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
-        "itemCollection_shop_battlefield",
         "itemCollection_MechParts_RestoPanzyr",
         "itemCollection_SLDF_lvl-2"
     ]

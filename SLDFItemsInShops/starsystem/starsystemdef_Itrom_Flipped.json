@@ -26,9 +26,7 @@
     },
     "SystemShopItems": [
         "itemCollection_major_AuriganRestoration",
-        "itemCollection_shop_battlefield",
         "itemCollection_MechParts_RestoItrom",
-        "itemCollection_shop_battlefieldProgression",
         "itemCollection_SLDF_lvl-4"
     ]
 }
