@@ -3,7 +3,7 @@
     "RelativeModifier": 0,
     "AbsoluteModifier": 0,
     "Description": {
-        "Cost": 700000,
+        "Cost": 1400000,
         "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": "Varied",
@@ -21,7 +21,7 @@
     "PrefabIdentifier": "",
     "BattleValue": 0,
     "InventorySize": 7,
-    "Tonnage": 2,
+    "Tonnage": 4,
     "AllowedLocations": "All",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
@@ -172,7 +172,12 @@
                     "poorlyMaintainedEffectData": null
                 }
             ]
+        },
+        "Category": [
+        {
+            "CategoryID": "TSM"
         }
+    ]
     },
     "ComponentTags": {
         "items": [

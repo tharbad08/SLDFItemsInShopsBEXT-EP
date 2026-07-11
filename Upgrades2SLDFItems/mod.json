@@ -11,6 +11,7 @@
 
     "Manifest": [
         { "Type": "ItemCollectionDef", "Path": "itemsAppend", "ShouldAppendText": true },
-        { "Type": "UpgradeDef", "Path": "upgrades" }
+        { "Type": "UpgradeDef", "Path": "upgrades" }, 
+        { "Type": "CCCategories", "Path": "cc_category", "AddToDB": false }
     ]
 } 
